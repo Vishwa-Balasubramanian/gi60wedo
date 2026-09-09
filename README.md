@@ -72,13 +72,6 @@
 - **Siemens Mobility GmbH** — Working Student, Artificial Intelligence
 - **Bannari Amman Institute of Technology** — Research Assistant, Data Science
 
-## Research
-
-**Diagnosing Cardiovascular Diseases Using a Classification Algorithm**  
-Published in IJARIIE · 20 November 2023
-
----
-
 <div align="center">
   <strong>Open to working-student, internship, and early-career opportunities in data science, machine learning, and applied AI.</strong>
 </div>
